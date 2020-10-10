@@ -7,16 +7,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-#### Things to consider when building an API 
-
-- Coupling.
-- Chattiness.
-- Client Complexity.
-- Cognitive Complexity.
-- Caching.
-- Discoverablity.
-- Versioning
-
 These are general concepts for building APIs, but not a specific tool or specification.
 
 **Implementations** are something you can actually download, install, and use to build an API.
@@ -29,3 +19,13 @@ gRPC is implementation, following the RPC paradigm.
 REST is a paradigm, has never turned into a specification, and has no official implementations.
 
 GraphQL is implementation, following Query Language paradigm.
+
+#### Things to consider when building an API 
+
+- Coupling.
+- Chattiness.
+- Client Complexity.
+- Cognitive Complexity.
+- Caching.
+- Discoverablity.
+- Versioning
