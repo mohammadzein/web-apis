@@ -7,6 +7,8 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+#### Things to consider when building an API 
+
 - Coupling.
 - Chattiness.
 - Client Complexity.
